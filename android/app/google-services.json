@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883544385929",
+    "project_id": "project-inda",
+    "storage_bucket": "project-inda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883544385929:android:07b57bb986f1f0fb25d958",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqq9lXN3HIweDgqg9PBabbrt5MQ_Qr18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
