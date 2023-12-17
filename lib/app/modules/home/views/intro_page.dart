@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/app/modules/home/views/login_page.dart';
+import 'package:flutter_application_1/app/modules/home/views/login_page1.dart';
 import 'package:flutter_application_1/app/modules/home/views/register_page.dart';
+import 'package:flutter_application_1/app/modules/home/views/register_page1.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 

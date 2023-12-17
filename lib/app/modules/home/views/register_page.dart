@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/app/modules/home/controllers/auth_controller.dart';
 import 'package:get/get.dart';
 
-class RegisterPage extends StatefulWidget {
+class RegisterPage1 extends StatefulWidget {
   @override
-  State<RegisterPage> createState() => _RegisterPageState();
+  State<RegisterPage1> createState() => _RegisterPageState1();
 }
 
-class _RegisterPageState extends State<RegisterPage> {
+class _RegisterPageState1 extends State<RegisterPage1> {
   final AuthController _authController = Get.put(AuthController());
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
